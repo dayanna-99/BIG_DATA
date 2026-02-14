@@ -1,25 +1,30 @@
 # BIG_DATA
-Este repositorio contiene el material de clase correspondiente a la especialización en Big Data. Aquí se almacenan apuntes, ejercicios, recursos y documentación relevante utilizada a lo largo de la cursada, facilitando el acceso y la organización de los contenidos para los estudiantes y docentes de la especialización.
 
-## Estructura del repositorio
+## Descripción
+Este repositorio es el espacio oficial donde se almacena y organiza todo el material de clase de la Especialización en Big Data. Su objetivo es centralizar apuntes, ejercicios, recursos, proyectos y documentación relevante para facilitar el acceso y la colaboración entre estudiantes y docentes.
 
-El repositorio está organizado de la siguiente manera:
+## Contenido
+El repositorio incluye:
+- **Apuntes:** Material teórico, resúmenes y presentaciones de clase.
+- **Ejercicios:** Prácticas, ejercicios resueltos y propuestas.
+- **Recursos:** Documentos, enlaces, papers y material complementario.
+- **Proyectos:** Trabajos prácticos y proyectos desarrollados durante la especialización.
 
-- `apuntes/` — Material teórico y resúmenes de clase.
-- `ejercicios/` — Prácticas, ejercicios y soluciones.
-- `recursos/` — Documentos, enlaces y material complementario.
-- `proyectos/` — Proyectos y trabajos prácticos desarrollados durante la especialización.
-
-## Instrucciones de uso
-
-1. Clona este repositorio en tu equipo:
+## ¿Cómo usar este repositorio?
+1. Clona el repositorio en tu equipo:
 	```bash
 	git clone https://github.com/dayanna-99/BIG_DATA.git
 	```
-2. Navega por las carpetas según el material que necesites consultar.
-3. Si eres docente o estudiante y deseas contribuir, realiza un fork y envía un pull request con tus aportes.
+2. Explora las carpetas según el tipo de material que necesites.
+3. Si deseas contribuir (como estudiante o docente), haz un fork, realiza tus cambios y envía un pull request.
 
-Para dudas o sugerencias, puedes abrir un issue en este repositorio.
+## Estructura sugerida de carpetas
+- `apuntes/`
+- `ejercicios/`
+- `recursos/`
+- `proyectos/`
+
+Para dudas, sugerencias o reportar problemas, abre un issue en este repositorio.
 
 
 
